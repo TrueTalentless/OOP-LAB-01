@@ -2,7 +2,7 @@
  * @author Лебедев Игнат 3312
  * @version 1.0
  */
-public class lab01 {
+public class Main {
     /**
      * @param args аргументов нет
      */
